@@ -98,7 +98,9 @@ Skills for working with complex file formats:
 
 ### Collections & Libraries
 
-- **[obra/superpowers](https://github.com/obra/superpowers)** - Core skills library for Claude Code with 20+ battle-tested skills including TDD, debugging, and collaboration patterns
+
+- **[AgentHub](https://myagenthub.cn)** - Chinese directory for discovering MCP servers and agent skills, with one-click install for Cursor, Claude Code, VS Code, Trae.
+- - **[obra/superpowers](https://github.com/obra/superpowers)** - Core skills library for Claude Code with 20+ battle-tested skills including TDD, debugging, and collaboration patterns
   - Features `/brainstorm`, `/write-plan`, `/execute-plan` commands and skills-search tool
   - [superpowers-skills](https://github.com/obra/superpowers-skills) - Community-editable skills repository
   - [Blog: Superpowers](https://blog.fsck.com/2025/10/09/superpowers/) - Author's overview by Jesse Vincent
